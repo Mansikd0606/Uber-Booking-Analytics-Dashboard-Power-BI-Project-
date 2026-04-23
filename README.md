@@ -115,8 +115,7 @@ Here are strong, real-world challenges :
 
 ## 📸 Dashboard Preview
 
-<img width="1482" height="801" alt="Uber Dashboard" src="https://github.com/user-attachments/assets/f8696d0d-8f07-4a12-9de2-db7072e5688b" />
-
+<img width="1471" height="796" alt="Screenshot 2026-04-23 220030" src="https://github.com/user-attachments/assets/8ceccace-bde5-441c-8a8f-a923eb3651da" />
 
 ---
 
