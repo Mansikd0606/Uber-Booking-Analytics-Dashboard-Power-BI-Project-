@@ -7,7 +7,17 @@ This project focuses on building an **interactive Power BI dashboard** to analyz
 The entire project was developed using **Power BI**, leveraging **Power Query** for data preprocessing and **DAX (Data Analysis Expressions)** for creating key performance indicators (KPIs).
 
 ---
+📂 Dataset Description
 
+The dataset contains ride booking information including:
+
+ - Pickup & Drop locations
+ - Booking status (Completed, Cancelled, Incomplete)
+ - Distance traveled
+ - Revenue generated
+ - Vehicle type
+ - Booking timestamps
+---
 ## 🛠️ Tools & Technologies Used
 
 * **Power BI**
@@ -76,6 +86,32 @@ The following important metrics were created using DAX:
 * Evaluated operational efficiency through completed vs lost bookings
 
 ---
+⚡ Challenges Faced
+
+Here are strong, real-world challenges (very important for recruiters):
+
+1. Data Cleaning Complexity
+ - Raw data contained missing and inconsistent values
+ - Required careful handling in Power Query to ensure accuracy
+
+2. Handling Booking Status Logic
+ - Different booking states (Completed, Cancelled, Incomplete) needed proper classification
+ - Avoided double-counting while creating measures
+
+3. Creating Accurate DAX Measures
+ - Writing correct DAX formulas for:
+    - Revenue calculation
+    - Average distance
+    - Lost bookings
+ - Faced challenges with filter context and aggregation
+
+4. Time-Based Analysis
+ - Month-wise analysis required proper date formatting
+ - Sorting months correctly (Jan–Dec) instead of alphabetical order
+
+5. Designing User-Friendly Dashboard
+ - Balancing visuals and avoiding clutter
+ - Choosing the right charts for better storytelling
 
 ## 📸 Dashboard Preview
 
