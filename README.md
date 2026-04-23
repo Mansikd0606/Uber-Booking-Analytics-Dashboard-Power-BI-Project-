@@ -88,7 +88,7 @@ The following important metrics were created using DAX:
 ---
 ⚡ Challenges Faced
 
-Here are strong, real-world challenges (very important for recruiters):
+Here are strong, real-world challenges :
 
 1. Data Cleaning Complexity
  - Raw data contained missing and inconsistent values
